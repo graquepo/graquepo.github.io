@@ -10,8 +10,7 @@
     "location": { "address": "94-314 Kahuanani St.", "postalCode": "96707", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "graquepo", "url": "http://github.com/graquepo" },
-      { "network": "linkedin", "username": "gwynethraquepo", "url": "https://www.linkedin.com/in/gwyneth-raquepo-a395871b3/" },
-      { "network": "instagram", "username": "gwenraq", "url": "http://instagram.com/gwenraq" }
+      { "network": "linkedin", "username": "gwynethraquepo", "url": "https://www.linkedin.com/in/gwyneth-raquepo-a395871b3/" }
     ]
   },
   "interests": [
@@ -26,17 +25,17 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": ["Windows", "Git/GitHub", "Visual Studio Code", "PuTTY"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-08-01",
       "endDate": "Present",
-      "courses": [
+      "courses": ["ICS 314", "ICS 321", "EE 495", "EE 468", "EE 371"
       ]
     }
   ],
@@ -80,12 +79,12 @@
       ]
     },
     {
-      "organization": "",
+      "organization": "IEEE Student Branch Club",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Chair",
+      "startDate": "2022-05-01",
+      "endDate": "Present",
+      "summary": "The IEEE Student Branch Club ...",
       "highlights": [
         "Chair, ACM Manoa, 2016-Present",
         "Member, IEEE Student Branch, 2014-Present",
@@ -95,7 +94,7 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
+      "title": "C.R.A.S.H Scholarship",
       "date": "2013-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
