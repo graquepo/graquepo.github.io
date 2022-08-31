@@ -7,7 +7,7 @@
     "phone": "808-983-9854",
     "website": "https://graquepo.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in the Spring of 2023. I am interested in pursuing a career in Web Development or Computer Hardware Engineering.",
-    "location": { "address": "94-314 Kahuanani St.", "postalCode": "96707", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "94-314 Kahuanani St.", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "graquepo", "url": "http://github.com/graquepo" },
       { "network": "linkedin", "username": "gwynethraquepo", "url": "https://www.linkedin.com/in/gwyneth-raquepo-a395871b3/" }
@@ -21,7 +21,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "HTML", "CSS", "Javascript", ""]
+      "keywords": [ "C", "C++", "HTML", "CSS", "JavaScript", "Python", "MATLAB"]
     },
     {
       "name": "Toolsets/OS",
@@ -35,33 +35,7 @@
       "studyType": "B.S.",
       "startDate": "2019-08-01",
       "endDate": "Present",
-      "courses": ["ICS 314", "ICS 321", "EE 495", "EE 468", "EE 371"
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+      "courses": ["EE 160: Programming for Engineers", "EE 205: Object Oriented Programming", "EE 260: Introduction to Digital Design", "EE 361 | EE 361L: Digital Systems & Comp Design", "EE 367 | EE 367L: Data Structures & Algorithms", "ICS 314: Object-oriented Software Engineering", "ICS 321: Database Systems 1", "EE 468: Operating Systems"
       ]
     }
   ],
@@ -77,33 +51,44 @@
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
-    },
+    }
+   ],
+  "activities": [
     {
       "organization": "IEEE Student Branch Club",
-      "website": "",
+      "website": "https://www.ieeeatuhm.org/",
       "position": "Chair",
-      "startDate": "2022-05-01",
+      "startDate": "2022",
       "endDate": "Present",
-      "summary": "The IEEE Student Branch Club ...",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
+      "summary": "The IEEE Student Branch Club promotes students’ academic and professional success. We aim to encourage students to engage with the electrical and computer engineering community at the University of Hawaii at Manoa.",
+    },
+      "organization": "Student Advisory Board",
+      "website": "https://www.ieeeatuhm.org/sab",
+      "position": "Chair",
+      "startDate": "2021",
+      "endDate": "Present",
+      "summary": "The Student Advisory Board acts as a bridge to communicate the student's concerns and suggestions to our faculty and industry partners.",
     }
   ],
   "awards": [
     {
       "title": "C.R.A.S.H Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "date": "2018-2019",
+      "awarder": "Waipahu High School",
+      "summary": "Scholarships awarded to outstanding participation in the College Readiness and Academic Success Hawaii (C.R.A.S.H) program at Waipahu High School."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii",
+      "summary": "Earn a semester GPA of 3.5 or higher based on 12 credits or more"
+    }
+    ,
+    {
+      "title": "Hawaii STEM Conference On-site Quack-a-thon Cybersecurity - Advanced Level Winner",
+      "date": "2018",
+      "awarder": "STEMworks",
+      "summary": "Created a 'Rubber Ducky' that would prevent computers from getting hacked."
     }
   ],
   "references": [
