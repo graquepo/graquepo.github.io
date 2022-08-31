@@ -41,16 +41,18 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+      "organization": "St. Philomena, WHS Robotics Volunteer",
+      "position": "WHS Robotics Volunteer",
+      "startDate": "2016",
+      "endDate": "2016",
+      "summary": "Teach preschoolers about robots and accompany them by playing and reading to them."
+    },
+    {
+      "organization": "Waipahu High School Key Club",
+      "position": "Volunteer",
+      "startDate": "2015",
+      "endDate": "2015",
+      "summary": "Fundraised for the UNICEF"
     }
    ],
   "activities": [
