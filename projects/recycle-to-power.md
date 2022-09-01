@@ -18,4 +18,3 @@ My idea for this science project was to create power using recycled materials mo
 This project was individual so I pretty much did everything, from research to creating the experiment. I also presented the project at my school, and it was a pretty nerve wracking and fun experience. 
 
 I was able to gain a lot of knowledge about how batteries work, understand where power comes from, and how the power we use today affects our environment negatively. This project was definitely a great experience for me, and I was able to build up my presentation skills. At first, I was really nervous about presenting, especially to teachers and to the college of engineering faculty, but I am glad I had this experience. 
-
