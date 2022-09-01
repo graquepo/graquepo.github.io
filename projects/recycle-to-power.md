@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/smol-coke.png
+image: img/smolcoke.png
 title: "Creating Power from Recyclable Materials"
 date: 2018-01-29
 published: true
@@ -9,6 +9,7 @@ labels:
   - Recycle
   - Science Fair
   - Power Source
+  - Engineering
 summary: "I created a power source from recyclable materials during my junior year high school science fair."
 ---
 <img class="img-fluid" src="../img/coke.png">
