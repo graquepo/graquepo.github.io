@@ -19,3 +19,7 @@ During my summer break, I decided to create a website for myself during my free 
 I created the website from scratch using visual studio code. I created the background image using procreate on my ipad. I coded using HTML and CSS, and I had a bit of help from watching a few youtube videos. 
 
 My experience coding this was exciting. I did not expect myself to be coding during summer break. Maybe I was so bored that I was like why not code myself a website that would be beneficial for me in the future, and I did it! I am proud of myself, and I will continue to work on this website when I have time again. I learned a lot while coding this, and I definitely gained more knowledge of how to code in HTML and CSS.
+
+<img class="img-fluid" src="../img/index.png">
+<img class="img-fluid" src="../img/page2.png">
+<img class="img-fluid" src="../img/page3.png">
