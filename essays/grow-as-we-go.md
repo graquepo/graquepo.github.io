@@ -28,5 +28,3 @@ As I went on to college, I continued to pursue my goal of becoming a Computer En
 I am excited to move forward into the class to learn more about JavaScript, UI Design, Meteor, etc. I am specifically looking forward to the end of the year project of creating a website with a team. I think I will enjoy creating the project. It will be interesting to compare the website I made in highschool, and see how much I improved. 
 
 I hope that I am able to significantly improve my programming skills during my time in this class. I was never good at doing my work under short time constraints, so doing the WoDs in class will be interesting and challenging for me. I will have to practice a lot in order to successfully complete the WoDs. I hope that the skills I’ll learn in this class will help me when I step into the engineering working field. 
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
