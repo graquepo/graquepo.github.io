@@ -12,6 +12,8 @@ labels:
 summary: "In this essay, I talk about my Javascript experiences."
 ---
 
+<img width="300px" class="rounded float-start pe-4" src="../img/roadtocode.jpg">
+
 ## Javascript can you jump off a cliff?
 
 I was introduced to Javascript back in high school when I was still a complete newbie at coding. It was a struggle learning that as my first language, but I’m glad I learned it because now I am able to grasp into learning other languages easily. After coming back into Javascript after about 6 years of putting it aside, I would say that it is easier to learn, and it is more straightforward than the other languages I’ve learned. It might have also been easy for me to learn because I already knew the basics of other languages. I would say that Javascript is more simplified and relaxed. We do not need to worry about dealing with different return types. From a different perspective, if I tell Javascript to jump off a cliff, it would simply do so, but if I tell C to jump off a cliff, it would give me an error and say I can’t do that. 
