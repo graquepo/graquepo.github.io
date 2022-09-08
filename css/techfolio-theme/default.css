@@ -7,11 +7,11 @@
 :root {
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--bs-blue);
-  --tf-pill-bg: var(--bs-gray);
-  --tf-icon-fill: var(--bs-gray);
+  --tf-pill-bg: var(--bs-pink);
+  --tf-icon-fill: var(--bs-pink);
   --tf-page-bg-color: var(--bs-white);
-  --tf-footer-bg-color: var(--bs-gray-200);
-  --tf-projects-bg-color: var(--bs-gray-100);
+  --tf-footer-bg-color: var(--bs-pink-200);
+  --tf-projects-bg-color: var(--bs-pink-100);
 }
 
 /* Format social media icons */
