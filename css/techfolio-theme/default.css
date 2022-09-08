@@ -9,7 +9,7 @@
   --bs-link-color: var(--bs-blue);
   --tf-pill-bg: var(--bs-pink);
   --tf-icon-fill: var(--bs-pink);
-  --tf-page-bg-color: var(--bs-white);
+  --tf-page-bg-color: var(--bs-lightpink);
   --tf-footer-bg-color: var(--bs-pink-200);
   --tf-projects-bg-color: var(--bs-pink-100);
 }
@@ -29,6 +29,6 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--bs-white);
+  background-color: var(--bs-lightpink);
   border-top: none;
 }
