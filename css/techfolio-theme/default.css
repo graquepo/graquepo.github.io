@@ -5,13 +5,17 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
+  --tf-pink1:#ffb3d9;
+  --tf-pink2:#ff99cc;
+  --tf-pink3:#ff80bf;
+  --tf-pink4:#ff66b3;
   --bs-font-sans-serif: "Open Sans", sans-serif;
-  --bs-link-color: var(--bs-blue);
-  --tf-pill-bg: var(--bs-pink);
-  --tf-icon-fill: var(--bs-pink);
-  --tf-page-bg-color: var(--bs-lightpink);
-  --tf-footer-bg-color: var(--bs-pink-200);
-  --tf-projects-bg-color: var(--bs-pink-100);
+  --bs-link-color: var(--tf-pink4);
+  --tf-pill-bg: var(--tf-pink2);
+  --tf-icon-fill: var(--tf-pink4);
+  --tf-page-bg-color: var(--bs-white);
+  --tf-footer-bg-color: var(--tf-pink1);
+  --tf-projects-bg-color: var(--tf-pink1);
 }
 
 /* Format social media icons */
