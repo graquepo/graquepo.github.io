@@ -11,7 +11,7 @@
   --tf-pink4:#ff66b3;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-pink4);
-  --tf-pill-bg: var(--tf-pink3);
+  --tf-pill-bg: var(--tf-pink1);
   --tf-icon-fill: var(--tf-pink4);
   --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--tf-pink1);
@@ -21,7 +21,7 @@
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-pink4);
+  fill: var(--tf-pink1);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
