@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/nana.png
+image: img/webb.jpg
 title: "I decided to code during my summer break, what??"
 date: 2022-07-01
 published: true
