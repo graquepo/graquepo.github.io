@@ -14,8 +14,8 @@
   --tf-pill-bg: var(--tf-pink1);
   --tf-icon-fill: var(--tf-pink4);
   --tf-page-bg-color: var(--bs-white);
-  --tf-footer-bg-color: var(--tf-pink1);
-  --tf-projects-bg-color: var(--tf-pink1);
+  --tf-footer-bg-color: var(--tf-pink);
+  --tf-projects-bg-color: var(--tf-pink);
 }
 
 /* Format social media icons */
