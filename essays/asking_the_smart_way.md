@@ -11,6 +11,9 @@ labels:
   -Stack Overflow
 summary: "In this essay I talk about what makes a good question and a bad question with Stack Overflow examples."
 ---
+
+<img width="300px" class="rounded float-start pe-4" src="../img/dum.jpg">
+
 ## Are there such things as dumb questions? 
 
 Ever since I was in school, I would always be encouraged by my teachers to ask a question. I would often have difficulties with what questions I should be asking when I don’t quite understand the topic. Sometimes I would be ashamed to ask a question that might be easy to understand for other people. I learned throughout college that students have similar questions as me, and that I should not be ashamed to ask for help even if it means having to admit that I do not know something. We were always encouraged to ask questions in our classes no matter how hard or how easy the classes may be. However, are there such things as dumb questions? Yes.
