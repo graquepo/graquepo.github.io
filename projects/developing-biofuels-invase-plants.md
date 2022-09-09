@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/biofuel.png
+image: img/fuelicon.jpg
 title: "Developing Biofule from Invasive Plant Family, Fabales"
 date: 2019-05-01
 published: true
