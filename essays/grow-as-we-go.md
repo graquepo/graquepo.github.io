@@ -19,6 +19,8 @@ Growing up, I have always looked up to my dad for being a Civil Engineer. I want
 
 I did not know much about coding back in high school, and the first few days of that class was a struggle. We were learning CSS, HTML, and a little bit of Javascript. At the end of the year, we had to create a website from scratch with a group. I was able to enjoy that class, and I am glad I took the opportunity to start learning coding early. 
 
+<img width="300px" class="rounded float-start pe-4" src="../img/blooming.jpg">
+
 ## Blooming 
 
 As I went on to college, I continued to pursue my goal of becoming a Computer Engineer/Software Engineer. I learned C/C++ and Python during my first three years of college, and in this class I was able to learn JavaScript. I did not expect myself to learn JavaScript in just a couple of hours. I think it is because all the other languages are similar to each other. They just have different structures and there are certain rules that are breakable in other languages. JavaScript seems more straightforward and easier to learn than the other programming languages (or maybe it’s because I already knew the basics from the other languages). 
