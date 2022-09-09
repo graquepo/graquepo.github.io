@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/smolcoke.png
+image: img/can.jpg
 title: "Creating Power from Recyclable Materials"
 date: 2018-01-29
 published: true
