@@ -6,9 +6,9 @@ title: "Asking The Smart Way"
 date: 2022-09-08
 published: true
 labels:
-  -Smart Questions
-  -Bad Questions
-  -Stack Overflow
+  - Smart Questions
+  - Bad Questions
+  - Stack Overflow
 summary: "In this essay I talk about what makes a good question and a bad question with Stack Overflow examples."
 ---
 
