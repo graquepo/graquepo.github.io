@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 image: img/cotton/cotton-square.png
-title: "let messyCode = messyWorld;"
+title: "Clean code... Why bother?"
 date: 2022-09-20
 published: true
 labels:
