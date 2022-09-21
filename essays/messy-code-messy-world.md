@@ -17,13 +17,11 @@ summary: "My experiences with ESLint and IntelliJ and what I think about coding 
 
 Can you understand a messy code? Neither can I. It is important to have your code properly formatted so that it is easy to read and understand. No matter what type of coding language it is, your code has to be clean, consistent, simple, and readable. I believe that following the coding standards will help not only you, but also your potential future teammates.
 
-Why would your peers need to understand your coding you may ask. Well, a big part of coding is teamwork. You and your teammates need to work together on the code in order to complete it. If you push a messy code on your repository, and your teammate works on it, it will be harder for your teammate to understand your code, and they might end up having to redo the code again. 
+Why would your peers need to understand your coding you may ask. Well, a big part of coding is teamwork. You and your teammates need to work together on the code in order to complete it. If you push a messy code on your repository, and your teammate works on it, it will be harder for your teammate to understand your code. They might end up having to redo the code again!! This would take a lot of you and your team's time, and the code you worked on might have all been done for nothing. We wouldn't want those unnecessary scenarios to occur. So instead, we should practice following the coding standards. 
 
 <img width="300px" class="rounded float-start pe-4" src="../img/what.png">
 
 Following the coding standards will also be easier if you are asking someone for coding help. If the helper reads your messy code, it might take a long time for them to help you because they first have to understand each line of the code, and then actually help you with your problem. They might also end up staring at your screen for a long time, because it might be hard for them to read each line. 
-
-After your first week of using ESLint with IntelliJ, what are your impressions? Are you finding that getting the green checkmark is painful, or useful, or both, or something else entirely?
 
 ## I try my best
 
