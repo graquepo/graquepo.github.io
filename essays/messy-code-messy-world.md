@@ -23,7 +23,7 @@ Following the coding standards will also be easier if you are asking someone for
 
 After your first week of using ESLint with IntelliJ, what are your impressions? Are you finding that getting the green checkmark is painful, or useful, or both, or something else entirely?
 
-##I try my best
+## I try my best
 
 Whenever I code, I have my way of formatting it to however I can read it, but I am not sure if how I am writing it is readable for everyone. The most important thing for me is indentation, properly naming the variables, and line length. When I was working on my code using IntelliJ and ESLint, I was impressed with all the features the application provides, and how it helps you format your code. For example, while I was doing my Practice WOD (Work of the Day), I was rushing through it and trying to complete fast, so my coding layout wasn’t the best. But when I had wrong indentations for my coding, IntelliJ automatically indented the line for me to the correct format. I also liked how there were lines showing if I may have missed a curly bracket, or a semicolon.
 
