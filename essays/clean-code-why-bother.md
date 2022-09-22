@@ -31,3 +31,7 @@ Whenever I code, I have my way of formatting it to however I can read it, but I 
 ## Green Signal
 
 Having to get that green checkmark is painful yet satisfying at the same time. I like that there is an indication of a green checkmark if your coding does not have any errors. It helps me fix my code, as well as properly format it in the end. While I was working with jsfiddle, there was no way of knowing if I was missing brackets, semi-colons, curly braces, and other typos. With ESLint, it makes my life much easier, and shows me the simple or big mistakes that I have while I am coding. I no longer have to think too hard about why my code is not working, or worry about missing something. 
+
+## Conclusion
+
+It is okay if your code does not exactly follow every coding standards, but it is good to practice using them now so that you can start using them in the long run. If you continue practicing them, you will get used to writing in the standards without having to think about it. Writing your code using ESLint will help you correct mistakes that might occur in your code. You learn from your mistakes, so having this setting in IntelliJ will definitly help you practice.
