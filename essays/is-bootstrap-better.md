@@ -21,7 +21,7 @@ It gives you the ability to create responsive web designs easily. If you want to
 
 Here are examples of making a teal button using raw HTML and CSS:
 
-<img width="300px" class="rounded float-start pe-4" src="../img/css-btn.JPG">
+<img class="rounded float-start pe-4" src="../img/css-btn.JPG">
 
 HTML:
 ```
@@ -41,7 +41,7 @@ button{
 
 And here is an example of making a teal button using Bootstrap 5:
 
-<img width="300px" class="rounded float-start pe-4" src="../img/bs-btn.JPG">
+<img class="rounded float-start pe-4" src="../img/bs-btn.JPG">
 
 HTML:
 ```
@@ -57,4 +57,4 @@ Bootstrap 5 is great but there are drawbacks to using it. First, you are limited
 
 ## What I feel
 
-Using bootstrap was a bit challenging for me since I had to learn all the classes that were available. I also felt a bit frustrated because it was hard for me to change the font sizes, and the classes sometimes would not respond or it wouldn’t work. For example, when I wanted the list of words to be on the right side of the screen, all the classes that I used would not make it go to the right side. So, I ended up fixing it using CSS. I think Bootstrap is definitely not for me, I would still use a few classes here and there, but I still prefer coding in raw HTML and CSS. This also gives me the freedom to place any item I want anywhere on the screen because there would be no grid layout, and I would not have to be using the default bootstrap designs. 
+Using bootstrap was a bit challenging for me since I had to learn all the classes that were available. I also felt a bit frustrated because it was hard for me to change the font sizes, and the classes sometimes would not respond or it wouldn’t work. For example, when I wanted the list of words to be on the right side of the screen, all the classes that I used would not make it go to the right side. So, I ended up fixing it using CSS. I think Bootstrap is definitely not for me, I would still use a few classes here and there, but I still prefer coding in raw HTML and CSS. This also gives me the freedom to place any item I want anywhere on the screen because there would be no grid layout, and I would not have to be using the default bootstrap designs. This might be the case for now, but maybe once I learn more about Bootstrap, I might start to like it.
