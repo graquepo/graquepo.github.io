@@ -21,7 +21,7 @@ It gives you the ability to create responsive web designs easily. If you want to
 
 Here are examples of making a teal button using raw HTML and CSS:
 
-<img width="300px" class="rounded float-start pe-4" src="../img/css-btn.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/css-btn.JPG">
 
 HTML:
 ```
@@ -41,7 +41,7 @@ button{
 
 And here is an example of making a teal button using Bootstrap 5:
 
-<img width="300px" class="rounded float-start pe-4" src="../img/bs-btn.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/bs-btn.JPG">
 
 HTML:
 ```
