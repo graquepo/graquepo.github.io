@@ -40,6 +40,7 @@ button{
 
 
 And here is an example of making a teal button using Bootstrap 5:
+
 <img width="300px" class="rounded float-start pe-4" src="../img/bs-btn.jpg">
 
 HTML:
