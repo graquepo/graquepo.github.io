@@ -21,7 +21,7 @@ It gives you the ability to create responsive web designs easily. If you want to
 
 Here are examples of making a teal button using raw HTML and CSS:
 
-<img class="rounded float-start pe-4" src="../img/css-btn.JPG">
+<img  width="100px" class="rounded float-start pe-4" style="position:relateve;" src="../img/css-btn.JPG">
 
 HTML:
 ```
