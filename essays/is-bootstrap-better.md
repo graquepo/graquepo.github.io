@@ -9,7 +9,7 @@ labels:
   - Bootstrap 5
   - HTML
   - CSS
-summary: "In this essay I talk about what makes a good question and a bad question with Stack Overflow examples."
+summary: "In this essay, I talk about what I feel about Bootstrap, what Bootstrap is, and some examples.
 ---
 
 ## What is Bootstrap?
