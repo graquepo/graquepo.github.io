@@ -12,7 +12,7 @@ labels:
 summary: "In this essay I talk about what makes a good question and a bad question with Stack Overflow examples."
 ---
 
-## UI Framewoks
+## What is Bootstrap?
 
 Do you ever get tired of writing long CSS codes? Do you struggle with designing your websites and don’t know how to make it look good and clean? If these apply to you, using Bootstrap 5 might make your life easier. Bootstrap 5 provides HTML and CSS based design templates that include built in navigation bars, buttons, tables, margin / padding layouts, and many more! 
 It gives you the ability to create responsive web designs easily. If you want to create a menu bar that has a dropdown of different contents, Bootstrap 5 has a class that you can implement, so you don’t have to create the HTML and CSS on your own. If you want to have a button that is blue and hover interactive, Bootstrap 5 already has a class for it. All you have to do is just include the class to your div. A lot of contents that you may want to include in your website is already built in on Bootstrap 5, so you’ll take less time doing all the HTML and CSS. Bootstrap 5 still takes the same amount of time to learn as learning HTML and CSS, but it is worth it in the end, and it will save you a lot of time. 
@@ -20,7 +20,9 @@ It gives you the ability to create responsive web designs easily. If you want to
 ## Let’s compare using HTML and CSS with using Bootstrap 5.
 
 Here are examples of making a teal button using raw HTML and CSS:
+
 <img width="300px" class="rounded float-start pe-4" src="../img/css-btn.jpg">
+
 HTML:
 ```
 <button>Button</button>
@@ -35,8 +37,11 @@ button{
   font-size: 20px;
 }
 ```
+
+
 And here is an example of making a teal button using Bootstrap 5:
 <img width="300px" class="rounded float-start pe-4" src="../img/bs-btn.jpg">
+
 HTML:
 ```
 <button type="button" class="btn btn-info">Button</button>
