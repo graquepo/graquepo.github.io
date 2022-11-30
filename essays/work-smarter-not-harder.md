@@ -19,7 +19,9 @@ Have you ever noticed that most designs for cars, phones, machines, etc. look ve
 
 “Isn’t this copying?” you may ask. Well not necessarily because we have seen these types of problems before, and we are just solving it without having to reimagine the whole idea. We take these solutions as a learning experience. Copy + pasting is a different type of action. When you copy and paste, you don’t necessarily learn the material, and you don’t try to implement your own aspects into it. Design patterns are there to help you rebuild these known solutions when you encounter the known problems.
 
-<img width="300px" class="rounded float-start pe-4" src="../img/what.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/pig.png">
+
+## Libraries of Patterns
 
 Design patterns are also seen in a lot of software engineering codes. There are a lot of libraries that people have made to help you with your coding. For example, bootstrap makes it easy for programmers to style their websites without having to put in long efforts into creating their own designs. Of course there are pros and cons to design patterns. A few of the solutions that are already created may not be as great, and you may need to make major improvements to your code if you use it. It is our job to determine if the design pattern is good or if it is what we need. 
 
