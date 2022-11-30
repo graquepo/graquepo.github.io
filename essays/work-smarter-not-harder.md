@@ -19,7 +19,7 @@ Have you ever noticed that most designs for cars, phones, machines, etc. look ve
 
 “Isn’t this copying?” you may ask. Well not necessarily because we have seen these types of problems before, and we are just solving it without having to reimagine the whole idea. We take these solutions as a learning experience. Copy + pasting is a different type of action. When you copy and paste, you don’t necessarily learn the material, and you don’t try to implement your own aspects into it. Design patterns are there to help you rebuild these known solutions when you encounter the known problems.
 
-<img width="300px" class="rounded float-start pe-4" src="../img/pig.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/pig.png">
 
 ## Libraries of Patterns
 
