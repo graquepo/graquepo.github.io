@@ -4,7 +4,7 @@ type: project
 image: img/can.jpg
 title: "Manoa Club Finder"
 date: 2022-12-12
-published: false
+published: true
 labels:
   - UH Manoa
   - Clubs
@@ -29,4 +29,42 @@ The site will allow a user to browse the list of clubs in alphabetical order as 
 
 Users can specify interest areas, and be notified when a new club is created matching that interest area (or an existing club adds that interest area).
 
-Admins can monitor the site for inappropriate content, create and edit clubs, and create new categories of interests.
+### **Landing Page**
+// Add Landing Page
+
+### **Sign In / Sign Up**
+// Add Sign In Page
+
+<div class="col d-flex justify-content-center">
+  <img width="90%" class="rounded" src="./assets/images/sign-up.JPG">
+</div>
+
+### **My Clubs Page**
+
+<div class="col d-flex justify-content-center">
+  <img width="90%" class="rounded" src="./assets/images/my-clubs.JPG">
+</div>
+
+### **All Clubs Page**
+
+<div class="col d-flex justify-content-center">
+  <img width="90%" class="rounded" src="./assets/images/all-clubs.JPG">
+</div>
+
+### **Club Page**
+
+<div class="col d-flex justify-content-center">
+  <img width="90%" class="rounded" src="./assets/images/club-info.JPG">
+</div>
+
+### **Profile Page**
+
+<div class="col d-flex justify-content-center">
+  <img width="90%" class="rounded" src="./assets/images/profile.JPG">
+</div>
+
+### **Admin Page**
+
+<div class="col d-flex justify-content-center">
+  <img width="90%" class="rounded" src="./assets/images/admin.JPG">
+</div>
