@@ -30,10 +30,16 @@ The site will allow a user to browse the list of clubs in alphabetical order as 
 Users can specify interest areas, and be notified when a new club is created matching that interest area (or an existing club adds that interest area).
 
 ### **Landing Page**
-// Add Landing Page
+
+<div class="col d-flex justify-content-center">
+  <img width="90%" class="rounded" src="../img/landing.JPG">
+</div>
 
 ### **Sign In / Sign Up**
-// Add Sign In Page
+
+<div class="col d-flex justify-content-center">
+  <img width="90%" class="rounded" src="../img/sign-in.JPG">
+</div>
 
 <div class="col d-flex justify-content-center">
   <img width="90%" class="rounded" src="../img/sign-up.JPG">
