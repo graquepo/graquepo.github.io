@@ -29,6 +29,14 @@ The site will allow a user to browse the list of clubs in alphabetical order as 
 
 Users can specify interest areas, and be notified when a new club is created matching that interest area (or an existing club adds that interest area).
 
+Visit the website here: //link
+
+Learn more about the website here: //link
+
+### **My Role**
+
+I was responsible for creating the 
+
 ### **Landing Page**
 
 <div class="col d-flex justify-content-center">
@@ -74,3 +82,6 @@ Users can specify interest areas, and be notified when a new club is created mat
 <div class="col d-flex justify-content-center">
   <img width="90%" class="rounded" src="../img/admin.JPG">
 </div>
+
+## **My Overall Experience**
+I enjoyed creating the website
