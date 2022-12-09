@@ -36,35 +36,35 @@ Users can specify interest areas, and be notified when a new club is created mat
 // Add Sign In Page
 
 <div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="./assets/images/sign-up.JPG">
+  <img width="90%" class="rounded" src="../img/sign-up.JPG">
 </div>
 
 ### **My Clubs Page**
 
 <div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="./assets/images/my-clubs.JPG">
+  <img width="90%" class="rounded" src="../img/my-clubs.JPG">
 </div>
 
 ### **All Clubs Page**
 
 <div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="./assets/images/all-clubs.JPG">
+  <img width="90%" class="rounded" src="../img/all-clubs.JPG">
 </div>
 
 ### **Club Page**
 
 <div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="./assets/images/club-info.JPG">
+  <img width="90%" class="rounded" src="../img/club-info.JPG">
 </div>
 
 ### **Profile Page**
 
 <div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="./assets/images/profile.JPG">
+  <img width="90%" class="rounded" src="../img/profile.JPG">
 </div>
 
 ### **Admin Page**
 
 <div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="./assets/images/admin.JPG">
+  <img width="90%" class="rounded" src="../img/admin.JPG">
 </div>
