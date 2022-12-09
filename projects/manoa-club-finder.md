@@ -11,7 +11,7 @@ labels:
   - Finder
   - Website
   - Final Project
-summary: "I ."
+summary: "My team and I created a website that would help UH Manoa students look for clubs easily."
 ---
 ## **Overview**
 <!-- Summarizes what the system does and what makes it special and different from other related applications -->
@@ -29,9 +29,9 @@ The site will allow a user to browse the list of clubs in alphabetical order as 
 
 Users can specify interest areas, and be notified when a new club is created matching that interest area (or an existing club adds that interest area).
 
-Visit the website here: //link
+Visit the website here: <a href="http://142.93.232.214/"> Manoa Club Finder </a>
 
-Learn more about the website here: //link
+Learn more about the website here: <a href="https://club-finder-manoa.github.io/"> Manoa Club Finder Github </a>
 
 ### **My Role**
 
@@ -46,41 +46,41 @@ I was responsible for creating the
 ### **Sign In / Sign Up**
 
 <div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="../img/sign-in.JPG">
+  <img width="60%" class="rounded" src="../img/sign-in.JPG">
 </div>
 
 <div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="../img/sign-up.JPG">
+  <img width="60%" class="rounded" src="../img/sign-up.JPG">
 </div>
 
 ### **My Clubs Page**
 
 <div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="../img/my-clubs.JPG">
+  <img width="60%" class="rounded" src="../img/my-clubs.JPG">
 </div>
 
 ### **All Clubs Page**
 
 <div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="../img/all-clubs.JPG">
+  <img width="60%" class="rounded" src="../img/all-clubs.JPG">
 </div>
 
 ### **Club Page**
 
 <div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="../img/club-info.JPG">
+  <img width="60%" class="rounded" src="../img/club-info.JPG">
 </div>
 
 ### **Profile Page**
 
 <div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="../img/profile.JPG">
+  <img width="60%" class="rounded" src="../img/profile.JPG">
 </div>
 
 ### **Admin Page**
 
 <div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="../img/admin.JPG">
+  <img width="60%" class="rounded" src="../img/admin.JPG">
 </div>
 
 ## **My Overall Experience**
