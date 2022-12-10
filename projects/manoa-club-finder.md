@@ -35,12 +35,12 @@ Learn more about the website here: <a href="https://club-finder-manoa.github.io/
 
 ### **My Role**
 
-I was responsible for creating the 
+In this project was responsible for creating the profile page. The profile page cosists of a profile image, email, biography, and interests. You are able to edit the profile page and change all of the different components. You are also able to change the password in the profile page. Another thing that I was responsible for was creating the tests for each pages. The tests are needed in order to make a fully working website. Without it, we would not have been able to check for bugs in our code. I was able to create tests that would add or remove clubs from a page, edit the profiles, tests to see if all buttons are working, etc. I also helped debug any bugs that was on the pages. While working on the tests I encounter bugs, and I was able to help fix them. I also deployed our website into digital ocean. This meant that I had to manage the data for the website.
 
 ### **Landing Page**
 
 <div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="../img/landing.JPG">
+  <img width="60%" class="rounded" src="../img/landing.JPG">
 </div>
 
 ### **Sign In / Sign Up**
