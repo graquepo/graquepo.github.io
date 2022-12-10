@@ -84,4 +84,6 @@ In this project was responsible for creating the profile page. The profile page 
 </div>
 
 ## **My Overall Experience**
-I enjoyed creating the website
+When I was in high school, I was in a coding class where we learned HTML, CSS, and Javascript. Near the end of the school year, we were responsible for creating a full working website with a group of 4 people. We had to create everything from scratch, from the website design to creating the functions of the pages. Comparing my experience of creating the Manoa Club Finder from creating the website back in highschool, I would say that they both enhanced my experience in creating a full on working website. The website that we are creating now is easier to compelete since we were provided with a template to begin with. We were given a shorter amount of time though. 
+Looking at what we accomplished, I believe that this website could actually be usefull to UH Manoa students. If we were given the chance from UH Manoa to publish this website, I think that they would take it. I believe that the website has a lot more capabilities if we did more implementations in the future, but I think that right now, the website is a great beginner website where students could look for clubs, and add it to their profiles.
+
