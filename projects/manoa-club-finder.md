@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/can.jpg
+image: img/manoa.jpg
 title: "Manoa Club Finder"
 date: 2022-12-12
 published: true
