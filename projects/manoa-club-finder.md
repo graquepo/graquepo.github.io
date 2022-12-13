@@ -43,16 +43,6 @@ In this project was responsible for creating the profile page. The profile page 
   <img width="60%" class="rounded" src="../img/landing.JPG">
 </div>
 
-### **Sign In / Sign Up**
-
-<div class="col d-flex justify-content-center">
-  <img width="60%" class="rounded" src="../img/sign-in.JPG">
-</div>
-
-<div class="col d-flex justify-content-center">
-  <img width="60%" class="rounded" src="../img/sign-up.JPG">
-</div>
-
 ### **My Clubs Page**
 
 <div class="col d-flex justify-content-center">
@@ -68,7 +58,7 @@ In this project was responsible for creating the profile page. The profile page 
 ### **Club Page**
 
 <div class="col d-flex justify-content-center">
-  <img width="60%" class="rounded" src="../img/club-info.JPG">
+  <img width="60%" class="rounded" src="../img/club-page.jpg">
 </div>
 
 ### **Profile Page**
