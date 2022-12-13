@@ -4,7 +4,7 @@ type: essay
 image: img/cotton/cotton-square.png
 title: "My Scripting Journey"
 date: 2022-08-31
-published: true
+published: false
 labels:
   - Javascript
   - C
