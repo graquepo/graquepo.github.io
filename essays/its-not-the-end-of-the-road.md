@@ -3,7 +3,7 @@ layout: essay
 type: essay
 image: img/cotton/cotton-square.png
 title: "It's Not the End of the Road"
-date: 2022-13-12
+date: 2022-12-13
 published: true
 labels:
   - Reflection
