@@ -25,7 +25,7 @@ For this class we were required to use the IntelliJ software to code. I was unfa
 
 Github desktop has also helped me significantly with my group project. The github desktop is such a smart and great application when it comes to creating group work codes. We are able to work on different parts of the project at the same time, then we are able to merge them into the main branch. It could detect lines of code that we might not be able to merge, or we could easily work on another issue by simply switching through the different branches. 
 
-##Coding Standards
+## Coding Standards
 
 <img width="300px" class="rounded float-start pe-4" src="../img/code.jpg">
 
