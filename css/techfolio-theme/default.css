@@ -1,0 +1,44 @@
+/* Default theme. Simple, yet elegant. */
+
+/* Use Open Sans as the default sans serif font. */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
+
+/* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
+:root {
+  --tf-pink1: #FF748C;
+  --tf-pink2: #FF8DA1;
+  --tf-pink3: #FFA7B6;
+  --tf-pink4: #ffc0cb;
+  --bs-font-sans-serif: "Open Sans", sans-serif;
+  --bs-link-color: var(--tf-pink1);
+  --tf-pill-bg: var(--tf-pink1);
+  --tf-icon-fill: var(--tf-pink1);
+  --tf-page-bg-color: var(--bs-white);
+  --tf-footer-bg-color: var(--tf-pink4);
+  --tf-projects-bg-color: var(--tf-pink4);
+}
+
+h1,h2,h3,h4,h5 {
+  color: var(--tf-pink1);
+  font-family: Rubik;
+}
+
+
+/* Format social media icons */
+.tf-social {
+  display: inline-block;
+  fill: var(--tf-pink1);
+  height: 1.5em;
+  vertical-align: -.1em;
+  width: 1.5em;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Simplify the styling of the bottom of Essay cards. */
+.card-footer {
+  background-color: var(--bs-white);
+  border-top: none;
+}
