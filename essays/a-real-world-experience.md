@@ -13,8 +13,10 @@ labels:
 summary: "In this essay I reflect on my experiences in my Software Engineering 2 class."
 ---
 
-<img width="400px" class="d-flex justify-content-start" src="../img/front.JPG">
-<img width="400px" class="d-flex justify-content-end" src="../img/website.JPG">
+<div class="d-flex align-content-row justify-content-around"> 
+  <img width="500px" class="d-flex justify-content-start" src="../img/front.JPG">
+  <img width="500px" class="d-flex justify-content-end" src="../img/website.JPG">
+</div>
 
 ## My expectations were not what they w ere
 
