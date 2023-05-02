@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 image: img/cotton/cotton-square.png
-title: "A Real World Experience with Programming"
+title: "A Real World Experience"
 date: 2023-05-02
 published: true
 labels:
@@ -13,10 +13,10 @@ labels:
 summary: "In this essay I reflect on my experiences in my Software Engineering 2 class."
 ---
 
-<img width="300px" class="rounded float-start p-4" src="../img/front.JPG">
-<img width="300px" class="rounded float-end p-4" src="../img/website.JPG">
+<img width="400px" class="d-flex justify-content-start" src="../img/front.JPG">
+<img width="400px" class="d-flex justify-content-end" src="../img/website.JPG">
 
-## My expectations were not what they were
+## My expectations were not what they w ere
 
 For my last semester of school, I took the second part of my ICS 314 (Software Engineering 1), ICS 414 (Software Engineering 2). Before coming into this class, I expected to have different lessons, and reviews just like ICS 314, but this semester the class was arranged differently compared to a normal class. In this class we were given the chance to take everything that we learned from Software Engineering 1 and apply it to a real world scenario. We were divided into different groups, and were given the same client who requested us to make a website for them. I was a little concerned in the beginning because the group I was assigned to only had six people, while the rest of the groups had about nine or ten people. Everyone in my group had prior knowledge of Meteor, React, Bootstrap,Github, and CSS. This made it easier to choose which environment we would be working with. 
 
