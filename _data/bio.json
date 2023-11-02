@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "Gwyneth Raquepo",
+    "label": "-",
+    "picture": "https://github.com/graquepo.png",
+    "email": "graquepo@hawaii.edu",
+    "phone": "808-983-9854",
+    "website": "https://graquepo.github.io",
+    "summary": "I graduated at UH Manoa with a degree in Computer Engineer. Fun fact about me is that I play video games on my free time",
+    "location": { "address": "94-314 Kahuanani St.", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "graquepo", "url": "http://github.com/graquepo" },
+      { "network": "linkedin", "username": "gwynethraquepo", "url": "https://www.linkedin.com/in/gwyneth-raquepo-a395871b3/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Computer Engineering" },
+    { "name": "Web Development/Design" },
+    { "name": "Game Development" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "HTML", "CSS", "JavaScript", "Python", "MATLAB", "Verilog"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": ["Windows", "Git/GitHub", "Visual Studio Code", "PuTTY"]
+    },
+    {
+      "name": "Certifications",
+      "keywords": ["SolidWorks(CSWA)", "Autodesk Revit"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Spring, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2019-08-01",
+      "endDate": "Present",
+      "courses": ["EE 160: Programming for Engineers", "EE 205: Object Oriented Programming", "EE 260: Introduction to Digital Design", "EE 361 | EE 361L: Digital Systems & Comp Design", "EE 367 | EE 367L: Data Structures & Algorithms", "ICS 314: Object-oriented Software Engineering", "ICS 321: Database Systems 1", "EE 468: Operating Systems"
+      ]
+    }
+  ],
+    "volunteer": [
+ {
+      "organization": "IEEE Student Branch Club",
+      "website": "https://www.ieeeatuhm.org/",
+      "position": "Chair",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "The IEEE Student Branch Club promotes students’ academic and professional success. We aim to encourage students to engage with the electrical and computer engineering community at the University of Hawaii at Manoa."
+    },
+    {
+      "organization": "Student Advisory Board",
+      "website": "https://www.ieeeatuhm.org/sab",
+      "position": "Chair",
+      "startDate": "2021",
+      "endDate": "Present",
+      "summary": "The Student Advisory Board acts as a bridge to communicate the student's concerns and suggestions to our faculty and industry partners."
+    }
+  ],
+  "awards": [
+    {
+      "title": "C.R.A.S.H Scholarship",
+      "date": "2018-2019",
+      "awarder": "Waipahu High School",
+      "summary": "Scholarships awarded to outstanding participation in the College Readiness and Academic Success Hawaii (C.R.A.S.H) program at Waipahu High School."
+    },
+    {
+      "title": "Dean's List",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii",
+      "summary": "Earn a semester GPA of 3.5 or higher based on 12 credits or more"
+    }
+    ,
+    {
+      "title": "Hawaii STEM Conference On-site Quack-a-thon Cybersecurity - Advanced Level Winner",
+      "date": "2018",
+      "awarder": "STEMworks",
+      "summary": "Created a 'Rubber Ducky' that would prevent computers from getting hacked."
+    },
+    {
+      "title": "Waipahu High School Valedictorian",
+      "date": "2019",
+      "awarder": "Waipahu High School",
+      "summary": "Received 4.0 or more after graduating high school."
+    }
+    
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
